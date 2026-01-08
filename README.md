@@ -11,7 +11,7 @@ Open PowerShell as Administrator and run the following command:
 ```
 auditpol /list /subcategory:*
 ```
-Look for an entry similar to the following:
+Look for an entry similar to the following (it can change depending on your system language):
 ```
 Other Logon/Logoff Events
 ```
